@@ -1,0 +1,30 @@
+{
+  "niche": [
+    {
+      "name": "Web Development",
+      "tweets": [
+        {
+          "tweetURL": "url"
+        }
+      ],
+      "sub-niche": [
+        {
+          "name": "html",
+          "tweets": [
+            {
+              "tweetURL": "url"
+            }
+          ]
+        },
+        {
+          "name": "css",
+          "tweets": [
+            {
+              "tweetURL": "url"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

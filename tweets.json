@@ -1,0 +1,643 @@
+{
+  "niche": [
+    {
+      "name": "Web Development",
+      "tweets": [
+        {
+          "tweetURL": "https://twitter.com/iamsegunajibola/status/1528995461951913984"
+        },
+        {
+          "tweetURL": "https://twitter.com/SergiiKirianov/status/1539712745771216896?s=20&t=mep9H6HLv2osESj7p0keWg"
+        },
+        {
+          "tweetURL": "https://twitter.com/denicmarko/status/1506228508317700099?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/Prathkum/status/1520300437467013120?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/_georgemoller/status/1538540119778533377?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+        },
+        {
+          "tweetURL": "https://twitter.com/_georgemoller/status/1543972426215825412?s=20&t=mep9H6HLv2osESj7p0keWg"
+        },
+        {
+          "tweetURL": "https://twitter.com/Prathkum/status/1533319271169785856?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+        },
+        {
+          "tweetURL": "https://twitter.com/Prathkum/status/1516482529695608840?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/_georgemoller/status/1522250968741654531?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/creator_yudai/status/1522584230894710785?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        }
+      ],
+      "sub-niche": [
+        {
+          "name": "HTML",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/_georgemoller/status/1538540119778533377?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+            },
+            {
+              "tweetURL": "https://twitter.com/_georgemoller/status/1543972426215825412?s=20&t=mep9H6HLv2osESj7p0keWg"
+            }
+          ]
+        },
+        {
+          "name": "CSS",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/Prathkum/status/1533319271169785856?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+            },
+            {
+              "tweetURL": "https://twitter.com/Prathkum/status/1516482529695608840?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/_georgemoller/status/1522250968741654531?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/creator_yudai/status/1522584230894710785?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marketing/Business",
+      "tweets": [
+        {
+          "tweetURL": "https://twitter.com/bansal_pakhi/status/1531618281970614274?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+        },
+        {
+          "tweetURL": "https://twitter.com/SystemSunday/status/1547573745300041731?s=20&t=V6duvNdSyyTex3CkImBIUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/thatroblennon/status/1540718830455926784"
+        },
+        {
+          "tweetURL": "https://twitter.com/JohnIsBuilding/status/1556969800131178497?s=20&t=8SA11RrH9BjgK5I-9KwDAA"
+        },
+        {
+          "tweetURL": "https://twitter.com/thejustinwelsh/status/1537409684931547136"
+        },
+        {
+          "tweetURL": "https://twitter.com/JohnIsBuilding/status/1556969800131178497?s=20&t=8SA11RrH9BjgK5I-9KwDAA"
+        },
+        {
+          "tweetURL": "https://twitter.com/thejustinwelsh/status/1538930462411968512"
+        },
+        {
+          "tweetURL": "https://twitter.com/thejustinwelsh/status/1524781980935766017?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/jonbrosio/status/1526570740362973187"
+        },
+        {
+          "tweetURL": "https://twitter.com/demonicirfan/status/1526175241432485889?s=20&t=7bQECvT1M93M4RKjd3WXhQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/wes_kao/status/1528390251512832001?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/theoohene/status/1526205026829475844?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/jonbrosio/status/1526570740362973187?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/agarwal__gaurav/status/1522215968314822656?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        }
+      ],
+      "sub-niche": [
+        {
+          "name": "\n        Self-Development/Business Lessons\n      ",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/bansal_pakhi/status/1531618281970614274?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+            },
+            {
+              "tweetURL": "https://twitter.com/SystemSunday/status/1547573745300041731?s=20&t=V6duvNdSyyTex3CkImBIUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/thatroblennon/status/1540718830455926784"
+            },
+            {
+              "tweetURL": "https://twitter.com/JohnIsBuilding/status/1556969800131178497?s=20&t=8SA11RrH9BjgK5I-9KwDAA"
+            },
+            {
+              "tweetURL": "https://twitter.com/thejustinwelsh/status/1537409684931547136"
+            },
+            {
+              "tweetURL": "https://twitter.com/JohnIsBuilding/status/1556969800131178497?s=20&t=8SA11RrH9BjgK5I-9KwDAA"
+            },
+            {
+              "tweetURL": "https://twitter.com/thejustinwelsh/status/1538930462411968512"
+            },
+            {
+              "tweetURL": "https://twitter.com/thejustinwelsh/status/1524781980935766017?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/jonbrosio/status/1526570740362973187"
+            },
+            {
+              "tweetURL": "https://twitter.com/demonicirfan/status/1526175241432485889?s=20&t=7bQECvT1M93M4RKjd3WXhQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/wes_kao/status/1528390251512832001?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/theoohene/status/1526205026829475844?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/jonbrosio/status/1526570740362973187?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/agarwal__gaurav/status/1522215968314822656?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resources/Tools",
+      "tweets": [
+        {
+          "tweetURL": "https://twitter.com/dwvicy/status/1530558427767840768?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+        },
+        {
+          "tweetURL": "https://twitter.com/designerSaha/status/1477562817091813379?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+        },
+        {
+          "tweetURL": "https://twitter.com/ishratUmar18/status/1527978781473767430?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+        },
+        {
+          "tweetURL": "https://twitter.com/Web3Oscar/status/1522573359837597697?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/sharathkrml/status/1547801217513902081?s=20&t=V6duvNdSyyTex3CkImBIUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/adiig7/status/1543934530452541440?s=20&t=mep9H6HLv2osESj7p0keWg"
+        },
+        {
+          "tweetURL": "https://twitter.com/kazsatamai/status/1505952709257699344?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/Param_eth/status/1512403396166569990?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/Anni_Maan/status/1506329173169786898?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/akoskm/status/1470341456921518085?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/thealexbanks/status/1527698688264773633?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/sunilc_/status/1528329918643179520?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/matt_gray_/status/1548296795096096770?s=20&t=i475x0mnAr5fm5fzUivtdw"
+        },
+        {
+          "tweetURL": "https://twitter.com/deetwts/status/1519523358408208384?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+        },
+        {
+          "tweetURL": "https://twitter.com/csaba_kissi/status/1529077256915591171?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/SimonHoiberg/status/1548931100738785280?s=20&t=h4475Oi94gA5d1nPci-X4w"
+        },
+        {
+          "tweetURL": "https://twitter.com/saviomartin7/status/1484117616352382981?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+        },
+        {
+          "tweetURL": "https://twitter.com/ProductHunt/status/1506282906368552961?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/Insharamin/status/1514612168792051717?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/denicmarko/status/1512737735718625280?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        { "tweetURL": "https://twitter.com/_rybaz/status/1536001623759237120" },
+        {
+          "tweetURL": "https://twitter.com/Aakash_codes/status/1526931011300634624?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/palashv2/status/1545996749394694146?s=20&t=h4475Oi94gA5d1nPci-X4w"
+        },
+        {
+          "tweetURL": "https://twitter.com/reactive_dude/status/1548599248169717761?s=20&t=i475x0mnAr5fm5fzUivtdw"
+        },
+        {
+          "tweetURL": "https://twitter.com/MbaziiraRonn/status/1566448884242456576"
+        },
+        {
+          "tweetURL": "https://twitter.com/denicmarko/status/1541371632014528512?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+        },
+        {
+          "tweetURL": "https://twitter.com/saviomartin7/status/1478680505608388610?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+        },
+        {
+          "tweetURL": "https://twitter.com/adarsh____gupta/status/1530551296834433024?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+        },
+        {
+          "tweetURL": "https://twitter.com/mdjunaidap/status/1509040260931596288?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+        },
+        {
+          "tweetURL": "https://twitter.com/Amit_T18/status/1527916862230495233?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+        },
+        {
+          "tweetURL": "https://twitter.com/sunilc_/status/1520423774260060161?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        }
+      ],
+      "sub-niche": [
+        {
+          "name": "UX/UI Design",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/dwvicy/status/1530558427767840768?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+            },
+            {
+              "tweetURL": "https://twitter.com/designerSaha/status/1477562817091813379?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+            },
+            {
+              "tweetURL": "https://twitter.com/ishratUmar18/status/1527978781473767430?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+            }
+          ]
+        },
+        {
+          "name": "Web3",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/Web3Oscar/status/1522573359837597697?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/sharathkrml/status/1547801217513902081?s=20&t=V6duvNdSyyTex3CkImBIUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/adiig7/status/1543934530452541440?s=20&t=mep9H6HLv2osESj7p0keWg"
+            },
+            {
+              "tweetURL": "https://twitter.com/kazsatamai/status/1505952709257699344?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/Param_eth/status/1512403396166569990?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/Anni_Maan/status/1506329173169786898?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            }
+          ]
+        },
+        {
+          "name": "React",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/akoskm/status/1470341456921518085?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            }
+          ]
+        },
+        {
+          "name": "Newsletters",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/thealexbanks/status/1527698688264773633?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            }
+          ]
+        },
+        {
+          "name": "Extensions",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/sunilc_/status/1528329918643179520?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/matt_gray_/status/1548296795096096770?s=20&t=i475x0mnAr5fm5fzUivtdw"
+            }
+          ]
+        },
+        {
+          "name": "Cheat Sheets",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/deetwts/status/1519523358408208384?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+            }
+          ]
+        },
+        {
+          "name": "Platforms",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/csaba_kissi/status/1529077256915591171?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/SimonHoiberg/status/1548931100738785280?s=20&t=h4475Oi94gA5d1nPci-X4w"
+            },
+            {
+              "tweetURL": "https://twitter.com/saviomartin7/status/1484117616352382981?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+            },
+            {
+              "tweetURL": "https://twitter.com/ProductHunt/status/1506282906368552961?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/Insharamin/status/1514612168792051717?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/denicmarko/status/1512737735718625280?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/_rybaz/status/1536001623759237120"
+            }
+          ]
+        },
+        {
+          "name": "API's",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/Aakash_codes/status/1526931011300634624?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/palashv2/status/1545996749394694146?s=20&t=h4475Oi94gA5d1nPci-X4w"
+            }
+          ]
+        },
+        {
+          "name": "NPM Packages",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/reactive_dude/status/1548599248169717761?s=20&t=i475x0mnAr5fm5fzUivtdw"
+            }
+          ]
+        },
+        {
+          "name": "GitHub Repositories",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/MbaziiraRonn/status/1566448884242456576"
+            },
+            {
+              "tweetURL": "https://twitter.com/denicmarko/status/1541371632014528512?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+            },
+            {
+              "tweetURL": "https://twitter.com/saviomartin7/status/1478680505608388610?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+            },
+            {
+              "tweetURL": "https://twitter.com/adarsh____gupta/status/1530551296834433024?s=20&t=0krvOHkGpiAfG4XOTrIHIA"
+            },
+            {
+              "tweetURL": "https://twitter.com/mdjunaidap/status/1509040260931596288?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+            },
+            {
+              "tweetURL": "https://twitter.com/Amit_T18/status/1527916862230495233?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+            },
+            {
+              "tweetURL": "https://twitter.com/sunilc_/status/1520423774260060161?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "tweets": [
+        {
+          "tweetURL": "https://twitter.com/ericasmyname/status/1528723310300651520"
+        },
+        {
+          "tweetURL": "https://twitter.com/ericasmyname/status/1561725838629908480"
+        },
+        {
+          "tweetURL": "https://twitter.com/ericasmyname/status/1571831628972052483?s=20&t=jOUinWcXcDFIz5WyhvmY6Q"
+        },
+        {
+          "tweetURL": "https://twitter.com/alexgarcia_atx/status/1530928827773370368?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+        },
+        {
+          "tweetURL": "https://twitter.com/arrowmvn/status/1512423038964449296?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/alexgarcia_atx/status/1400084794986221568?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/Insharamin/status/1529681296808624128?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+        },
+        {
+          "tweetURL": "https://twitter.com/The_GreatBonnie/status/1472265694121283594?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        }
+      ],
+      "sub-niche": [
+        {
+          "name": "Content Writing",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/ericasmyname/status/1528723310300651520"
+            },
+            {
+              "tweetURL": "https://twitter.com/ericasmyname/status/1561725838629908480"
+            },
+            {
+              "tweetURL": "https://twitter.com/ericasmyname/status/1571831628972052483?s=20&t=jOUinWcXcDFIz5WyhvmY6Q"
+            }
+          ]
+        },
+        {
+          "name": "Copy-Writing",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/alexgarcia_atx/status/1530928827773370368?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+            },
+            {
+              "tweetURL": "https://twitter.com/arrowmvn/status/1512423038964449296?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/alexgarcia_atx/status/1400084794986221568?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            }
+          ]
+        },
+        {
+          "name": "Technical Writing",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/Insharamin/status/1529681296808624128?s=20&t=0uMqy6xxtVl2p4j6tPyjMA"
+            },
+            {
+              "tweetURL": "https://twitter.com/The_GreatBonnie/status/1472265694121283594?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Learning",
+      "tweets": [
+        {
+          "tweetURL": "https://twitter.com/swapnakpanda/status/1494981831262801921?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/Rapid_API/status/1527636774037639168?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/Rapid_API/status/1522561617778647041?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/Rapid_API/status/1484174377100791811?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+        },
+        {
+          "tweetURL": "https://twitter.com/_bhaveshrawat_/status/1513047624688943107?s=20&t=rnhQ0a7z2ROX2bnRNR4k3g"
+        },
+        {
+          "tweetURL": "https://twitter.com/ravikmmr/status/1522576131647762433?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+        },
+        {
+          "tweetURL": "https://twitter.com/warikoo/status/1499631292211552256?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/chartians/status/1557004060582354947?s=20&t=8SA11RrH9BjgK5I-9KwDAA"
+        },
+        {
+          "tweetURL": "https://twitter.com/Alek_Octopus/status/1557017670905626627?s=20&t=8SA11RrH9BjgK5I-9KwDAA"
+        },
+        {
+          "tweetURL": "https://twitter.com/pechacek_amy/status/1546113263389360128?s=20&t=h4475Oi94gA5d1nPci-X4w"
+        },
+        {
+          "tweetURL": "https://twitter.com/sweatystartup/status/1353012236172853250?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/chrishlad/status/1497948359763521542?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/Codie_Sanchez/status/1507817455409840138?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/RomeenSheth/status/1490857576397156353?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/SahilBloom/status/1513143686896435200?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/G_S_Bhogal/status/1492255231169679365?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/10kdiver/status/1510615804416454657?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/shreyas/status/1492345140492472321?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+        },
+        {
+          "tweetURL": "https://twitter.com/blakeaburge/status/1507697632210157573?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+        },
+        {
+          "tweetURL": "https://twitter.com/ItsKieranDrew/status/1541797324040687620?s=20&t=-ZfilwkLspJR4EGfiw5UnQ"
+        }
+      ],
+      "sub-niche": [
+        {
+          "name": "Data Structures",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/swapnakpanda/status/1494981831262801921?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            }
+          ]
+        },
+        {
+          "name": "Programming",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/Rapid_API/status/1527636774037639168?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            }
+          ]
+        },
+        {
+          "name": "Networking",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/Rapid_API/status/1522561617778647041?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            },
+            {
+              "tweetURL": "https://twitter.com/Rapid_API/status/1484174377100791811?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+            }
+          ]
+        },
+        {
+          "name": "Git",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/_bhaveshrawat_/status/1513047624688943107?s=20&t=rnhQ0a7z2ROX2bnRNR4k3g"
+            },
+            {
+              "tweetURL": "https://twitter.com/ravikmmr/status/1522576131647762433?s=20&t=fpqk9q8Gy0CaD3gaCcxbUg"
+            }
+          ]
+        },
+        {
+          "name": "Life Lessons/Hacks",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/warikoo/status/1499631292211552256?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/chartians/status/1557004060582354947?s=20&t=8SA11RrH9BjgK5I-9KwDAA"
+            },
+            {
+              "tweetURL": "https://twitter.com/Alek_Octopus/status/1557017670905626627?s=20&t=8SA11RrH9BjgK5I-9KwDAA"
+            },
+            {
+              "tweetURL": "https://twitter.com/pechacek_amy/status/1546113263389360128?s=20&t=h4475Oi94gA5d1nPci-X4w"
+            },
+            {
+              "tweetURL": "https://twitter.com/sweatystartup/status/1353012236172853250?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/chrishlad/status/1497948359763521542?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/Codie_Sanchez/status/1507817455409840138?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/RomeenSheth/status/1490857576397156353?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/SahilBloom/status/1513143686896435200?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/G_S_Bhogal/status/1492255231169679365?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            }
+          ]
+        },
+        {
+          "name": "Accounting",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/10kdiver/status/1510615804416454657?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            }
+          ]
+        },
+        {
+          "name": "Time Management",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/shreyas/status/1492345140492472321?s=20&t=-nlFiMjjvejOvNI_Z0P4HQ"
+            },
+            {
+              "tweetURL": "https://twitter.com/blakeaburge/status/1507697632210157573?s=20&t=Ta-AHstJKin9LugvUk4tFA"
+            }
+          ]
+        },
+        {
+          "name": "Story Telling",
+          "tweets": [
+            {
+              "tweetURL": "https://twitter.com/ItsKieranDrew/status/1541797324040687620?s=20&t=-ZfilwkLspJR4EGfiw5UnQ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
